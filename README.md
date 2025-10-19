@@ -3,7 +3,7 @@ Welcome to Stage 0! 🎯
 
 This repository implements a simple RESTful GET endpoint that returns profile information together with a dynamic cat fact fetched from the Cat Facts API. This README is tailored for a C# / ASP.NET Core implementation.
 
-Repository: https://github.com/Shaqoo/HNGProj
+Repository: https://github.com/Adeyemiadigun/HNG_Stage0_Task
 
 Contents
 
@@ -261,5 +261,5 @@ Where to set the user info
 The user fields can be set in appsettings.json or via environment variables USER_EMAIL, USER_NAME, USER_STACK. The example code reads these configuration values.
 Contact / Maintainer
 
-Repository: https://github.com/Shaqoo/HNGProj
-Maintainer: @Shaqoo
+Repository: https://github.com/Adeyemiadigun/HNG_Stage0_Task
+Maintainer: @Adeyemiadigun
